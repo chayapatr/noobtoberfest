@@ -7,4 +7,4 @@ Please describe what you do in this pull request...
 
 Your Email Address: (Optional)
 
-Note: if your project is not finish yet and don't want our mod to merge it. Simply add [WIP] next to pull request name. This make us recognize that your work is not done.
+Note: if your project is not finished yet and don't want our mod to merge it. Simply add [WIP] next to your pull request name. This makes us recognize that your work is not done.
